@@ -1,16 +1,18 @@
-## Hi there 👋
+# **Hi!**
+## I'm Matt 👋
 
-<!--
-**math-ls/math-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖
+I’m a **data professional** who likes to explore with new tech. My guilty pleasure is shoving data concepts into every project. Ff it can be modeled in a table or queried with SQL, I'm happy.
 
-Here are some ideas to get you started:
+🎯
+**Currently working on:**
+- [**PathDB**](https://github.com/mystery-git/PathDB)
+- [**Kothonic**](https://github.com/mystery-git/Kothonic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨
+**You will find me using these:**
+- **Python**: Love-hate relationship.
+- **Kotlin**: Has so much potential.
+- **SQL**: Ancient.
+- **AI**: Breaks easily.
+- **VS Codium**: Not VS Code.
